@@ -31,7 +31,7 @@ def pdf_to_jpeg(job):
 
     image_list = convert_from_path(
         source_file,
-        dpi=200,
+        dpi=485,
         first_page=first_page,
         last_page=last_page,
         fmt='jpeg',
