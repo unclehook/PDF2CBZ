@@ -1,4 +1,5 @@
 Changed dpi for jpg from 200 to 485.
+
 Changed requirements for python 3.9 .
 
 ---
