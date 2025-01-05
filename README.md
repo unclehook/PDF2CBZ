@@ -1,5 +1,6 @@
 Changed dpi for jpg from 200 to 485.
 Changed requirements for python 3.9 .
+
 ---
 ![Screenshot from 2021-08-06 19-22-42](https://user-images.githubusercontent.com/59517785/128548948-def908ba-e77e-485d-b00f-b166369a53b4.png)
 
